@@ -26,3 +26,11 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# Tailwind output
+/src/assets/app.css
+
+# Settings vscode
+/.vscode/settings.json
+
+package-lock.json
