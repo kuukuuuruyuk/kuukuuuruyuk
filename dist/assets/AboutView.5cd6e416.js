@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as e}from"./index.fb14efbf.js";const a={},c=e("div",{class:"max-w-3xl mx-auto"},[e("div",{class:"py-6"},[e("h1",{class:"text-3xl"},"About page is work")])],-1),n=[c];function r(_,l){return t(),o("main",null,n)}const d=s(a,[["render",r]]);export{d as default};
