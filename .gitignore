@@ -27,9 +27,6 @@ coverage
 *.sln
 *.sw?
 
-# Tailwind output
-/src/assets/app.css
-
 # Settings vscode
 /.vscode/settings.json
 
